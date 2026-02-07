@@ -1,10 +1,10 @@
 Owner - user who owns the file
 Group - group that owns the file
 
-(<ls -l output.png>)
+![ls -l output](Screenshot 1.png)
 
 owner change from ubuntu to tokio
-(1.png)
+![Owner change 1](Screenshot 2.png)
 
 owner change from tokio to berlin
 (2.png)
@@ -12,11 +12,11 @@ owner change from tokio to berlin
 
 Change group from ubuntu to team-heist
 
-(<3.png>)
+(![Owner change 2](Screenshot 3.png)
 
 Change owner as well as group
 
-(<4.png)
+![Owner and group change](Screenshot 4.png)
 
 Change group and owner of directory
 
