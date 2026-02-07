@@ -1,35 +1,25 @@
-Owner - user who owns the file
-Group - group that owns the file
 
-![ls -l output](Screenshot 1.png)
+## ls -l output
+![ls output](ls-output.png)
 
-owner change from ubuntu to tokio
-![Owner change 1](Screenshot 2.png)
+## Owner change from ubuntu to tokio
+![Owner change 1](owner-change-1.png)
 
-owner change from tokio to berlin
-(2.png)
+## Owner change from tokio to berlin
+![Owner change 2](owner-change-2.png)
 
+## Change group from ubuntu to team-heist
+![Group change](group-change.png)
 
-Change group from ubuntu to team-heist
+## Change owner as well as group
+![Owner and group change](owner-group-change.png)
 
-(![Owner change 2](Screenshot 3.png)
+## Change group and owner of directory
+![Directory ownership change](directory-ownership.png)
 
-Change owner as well as group
+## Recursive ownership and group change
+![Recursive ownership change](recursive-change.png)
 
-![Owner and group change](Screenshot 4.png)
-
-Change group and owner of directory
-
-(5.png)
-
-Recursive ownership and group change
-
-(6.png)
-
-
-creation of directory and ownership change
-
-(7.png)
 
 
 # Day 11 Challenge
@@ -59,3 +49,4 @@ creation of directory and ownership change
 1. Owner controls file ownership
 2. Group enables shared access
 3. Recursive ownership is critical for directories
+
