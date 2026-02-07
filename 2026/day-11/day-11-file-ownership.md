@@ -1,4 +1,3 @@
-
 ## ls -l output
 ![ls output](ls-output.png)
 
@@ -19,6 +18,8 @@
 
 ## Recursive ownership and group change
 ![Recursive ownership change](recursive-change.png)
+
+
 
 
 
