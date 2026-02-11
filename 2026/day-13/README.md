@@ -15,7 +15,7 @@ Learn LVM to manage storage flexibly – create, extend, and mount volumes.
 
 ## Before You Start
 
-Switch to root user:
+Switch to root user
 ```bash
 sudo -i
 ```
