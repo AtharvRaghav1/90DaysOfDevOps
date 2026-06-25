@@ -1,0 +1,7 @@
+Log Analysis Report
+Date: 2026-06-25
+Log File: 
+Log File: sample.log
+Total Lines: 
+Total Lines: 
+ERROR Count: 
